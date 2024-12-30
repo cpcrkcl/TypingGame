@@ -1,4 +1,4 @@
-need to create a string with the x amount of words
-need to figure out how to scale the amount of words per string for time
-need to count how many words typed in amount of time 
-need to know accuracy?
+need to know accuracy, accuracy needs to be word by word so if I type one word 
+    incorrectly it doesnt throw it off
+make a gui eventually
+word count still seems off
